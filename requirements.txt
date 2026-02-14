@@ -1,0 +1,6 @@
+# No external dependencies required
+# All functionality uses Python standard library
+
+# For future enhancements (optional):
+# flask>=2.0.0  # For web interface
+# requests>=2.26.0  # For API integrations
